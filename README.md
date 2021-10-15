@@ -1,6 +1,6 @@
-### 👋 Hi there I'm yasaki
+## 👋 Hi there I'm yasaki
 
-## I'm currently focusing on improving my JS skills
+### I'm currently focusing on improving my JS skills
 
 - 🌱 I’m learning [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Vue](https://vuejs.org), [Vuetify](https://vuetifyjs.com/en/), [Python](https://www.python.org)
 
