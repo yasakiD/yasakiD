@@ -2,7 +2,7 @@
 
 ### I'm currently focusing on improving my JS skills
 
-- 🔭 Currently working on T-Scripts struff
+- 🔭 Currently working on T-Scripts stuff
 
 - 🌱 I’m learning [Java](https://www.oracle.com/java/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Vue](https://vuejs.org), [Vuetify](https://vuetifyjs.com/en/), [Python](https://www.python.org)
 
