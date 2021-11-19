@@ -1,6 +1,6 @@
 ## 👋 Hi there I'm yasaki
 
-### I'm currently focusing on improving my JS skills
+### I'm currently focusing on improving my Java skills
 
 - 🔭 Currently working on T-Scripts stuff
 
